@@ -11,7 +11,15 @@ The purpose of this analysis is to assess the credit risk of individuals based o
 #### RandomOversampler
 
     - Accuracy: 0.74
-    - Classification Report:
-    -![RandomForest](Resources/Randover_report.PNG)
+    - Precision:
+        - low_risk: 1.00
+        - high_risk: 0.01
+    - Recall: 
+        - low_risk: 0.74
+        - high_risk: 0.52
+
+##### Classification Report:
+
+![RandomForest](Resources/Randover_report.PNG)
 
 #### 
