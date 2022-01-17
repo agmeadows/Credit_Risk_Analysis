@@ -8,9 +8,10 @@ The purpose of this analysis is to assess the credit risk of individuals based o
 
 ### Resampling Models
 
-#### Oversampling
+#### RandomOversampler
 
     - Accuracy: 0.74
-    - Recall: 
-        - low_risk: 0.74
-        - high_risk: 0.52
+    - Classification Report:
+![RandomForest](Resources/Randover_report.PNG)
+
+#### 
