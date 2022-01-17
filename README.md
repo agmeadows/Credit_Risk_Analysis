@@ -12,6 +12,6 @@ The purpose of this analysis is to assess the credit risk of individuals based o
 
     - Accuracy: 0.74
     - Classification Report:
-![RandomForest](Resources/Randover_report.PNG)
+    -![RandomForest](Resources/Randover_report.PNG)
 
 #### 
