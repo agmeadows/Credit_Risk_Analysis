@@ -75,14 +75,18 @@ The purpose of this analysis is to assess the credit risk of individuals based o
 
 #### AdaBoost Classifier
 
-    - Accuracy: 0.87
+    - Accuracy: 0.86
     - Precision:
         - low_risk: 1.00
         - high_risk: 0.03
     - Recall: 
-        - low_risk: 0.81
-        - high_risk: 0.87
+        - low_risk: 0.86
+        - high_risk: 0.82
 
 ##### Classification Report:
 ![RandomForest](Resources/Randomforest_report.PNG)
+
+## Summary
+
+After evaluating each of the machine learning methods, it has been determined that AdaBoost Boostrapping provides the best results. The undersampling and oversampling methods have an accuracy far below either of the Ensemble strategies. It for this reason I would recommend using the AdaBoost method for determining credit risk.
 
