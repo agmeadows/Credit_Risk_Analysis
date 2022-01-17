@@ -88,5 +88,5 @@ The purpose of this analysis is to assess the credit risk of individuals based o
 
 ## Summary
 
-After evaluating each of the machine learning methods, it has been determined that AdaBoost Boostrapping provides the best results. The undersampling and oversampling methods have an accuracy far below either of the Ensemble strategies. It for this reason I would recommend using the AdaBoost method for determining credit risk.
+After evaluating each of the machine learning methods, it has been determined that AdaBoost Boostrapping provides the best results. The undersampling and oversampling methods have an accuracy and recall rates far below either of the Ensemble strategies. It for this reason I would recommend using the AdaBoost method for determining credit risk.
 
